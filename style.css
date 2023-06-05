@@ -55,7 +55,12 @@ iframe {
 
   max-width: 100%;
 }
+video {
+  float: left;
+  margin: 0 20px 20px 0;
 
+  max-width: 100%;
+}
 /* 更多信息链接 */
 .further-info {
   clear: left;
